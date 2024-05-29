@@ -1,0 +1,12 @@
+{
+    "apiKey": "API_KEY",
+    "apiSecret": "API_SECRET",
+    "bearerToken": "BEARER_TOKEN",
+    "ownAccessToken": "ACCESS_TOKEN_FROM_DASHBOARD",
+    "ownAccessSecret": "ACCESS_TOKEN_FROM_DASHBOARD",
+    "accessToken": "GENERATED_ACCESS_TOKEN",
+    "accessSecret": "GENERATED_ACCESS_SECRET",
+    "clientID": "CLIENT_ID",
+    "clientSecret": "CLIENT_SECRET",
+    "refreshToken": "GENERATED_REFRESH_TOKEN"
+}

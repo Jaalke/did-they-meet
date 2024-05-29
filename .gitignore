@@ -1,0 +1,14 @@
+data/json/*.json
+data/keys/*
+data/db/twitter.db
+build
+tmp/*.jpg
+tmp/*.jpeg
+tmp/*.png
+**/*.jar
+**/*.ipynb
+**/*.sh
+**/*.log
+.idea
+.vscode
+.gradle
